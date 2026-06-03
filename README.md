@@ -6,7 +6,7 @@
 [![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/)
 
 ## Project Overview
-This project was developed to solve a real-world operational bottleneck encountered during my internship in the Market Intelligence and Research division at one of the largest oil and gas companies in Indonesia. It processes field survey data (Excel reports), dynamically fetches undocumented images, and utilizes Computer Vision (OpenCV) alongside Optical Character Recognition (PyTesseract) to autonomously classify and extract authentic competitor lubricant pricelists from unstructured field data.
+This project was developed to solve a real-world operational bottleneck encountered during my internship in the Market Intelligence and Research division at one of the largest oil and gas companies in Indonesia. It processes field survey data (Excel reports), dynamically fetches undocumented images, and utilizes Computer Vision (OpenCV) alongside Optical Character Recognition (PyTesseract) to autonomously scan, classify, and isolate authentic competitor pricelist photos from unstructured field data.
 
 ---
 
