@@ -31,7 +31,7 @@ In market research, field teams often submit thousands of raw photos containing 
 ## Repository Structure
 
 * `Pricelist_READ_OCR.py` : The primary Python script containing the data wrangling pipeline and OCR logic.
-* `dummy_survey_report.xlsx` : A simulated, anonymized dataset mimicking the original survey report structure for safe testing and replication.
+* `dummy_survey_report.xlsx` : A simulated, anonymized dataset mimicking the original survey report structure for safe testing and replication (remind to change the imange link by yourself to make it works).
 * `README.md` : Project documentation.
 
 ---
